@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 ### 👩‍💻 About Me:
 I'm curious by nature and enjoy figuring out how things work. I'm still early in my journey with computer science, so I'm always experimenting with something new, whether that's a project, a new technology, or a concept I haven't worked with before.
